@@ -38,7 +38,7 @@ photo = "https://i.postimg.cc/7LkVbrjm/yt.jpg"
 cpphoto = "https://i.postimg.cc/x81h56j7/cpdrm.webp"
 appxzip = "https://i.postimg.cc/Y0tt8SX3/appzip.webp"
 my_name = "𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖘 𝕭𝖆𝖇𝖚"
-CHANNEL_ID = "-1002257755789"
+CHANNEL_ID = "6764661699"
 
 cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 
